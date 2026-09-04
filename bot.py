@@ -1,6 +1,6 @@
 import telebot
 
-# فقط یک توکن رو نگه دار (همون جدیدی که از بات‌فادر گرفتی)
+# ف
 TOKEN = "7234567890:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsawE"
 bot = telebot.TeleBot(TOKEN)
 
